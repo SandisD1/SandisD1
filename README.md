@@ -6,6 +6,9 @@ I am a software developer currently creating Java and Spring boot applications.
 
 🌱 I’m currently learning more and more about Java and Spring boot application design every day.
 
+🧰 Toolbox 
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="JavaScript Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JavaScript Logo" width="50" height="50" />
 
 <!--
 **SandisD1/SandisD1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
