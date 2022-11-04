@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I am Sandis Dreimanis.
+
+I am a software developer currently creating Java and Spring boot applications.
+
+🔭 I’m currently working on a Spring Boot app "Flight planner" which allows for the user to store information about flights (their departure/arrival cities and times/dates) and retrieve, search for and sort such information.
+
+🌱 I’m currently learning more and more about Java and Spring boot application design every day.
+
 
 <!--
 **SandisD1/SandisD1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
