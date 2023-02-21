@@ -12,7 +12,8 @@ Languages and Tools:
 src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" alt="Ruby Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="JavaScript Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="JavaScript Logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="JavaScript Logo" width="50" height="50" /> <img
 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="50" height="50" /> <img
 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL Logo" width="50" height="50" /> <img
-src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50" />
+src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50" /> <img
+src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="MySQL Logo" width="50" height="50" />
 
 📫 sandisdreimanis2@gmail.com 
 
